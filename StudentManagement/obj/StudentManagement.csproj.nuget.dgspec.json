@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\net\\StudentManagement\\StudentManagement.csproj": {}
+    "C:\\Users\\HP\\Desktop\\Assignments\\StudentManagement\\StudentManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\net\\StudentManagement\\StudentManagement.csproj": {
+    "C:\\Users\\HP\\Desktop\\Assignments\\StudentManagement\\StudentManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\net\\StudentManagement\\StudentManagement.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Assignments\\StudentManagement\\StudentManagement.csproj",
         "projectName": "StudentManagement",
-        "projectPath": "C:\\Users\\HP\\Desktop\\net\\StudentManagement\\StudentManagement.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Assignments\\StudentManagement\\StudentManagement.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\net\\StudentManagement\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Assignments\\StudentManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

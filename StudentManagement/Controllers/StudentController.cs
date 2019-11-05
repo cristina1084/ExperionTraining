@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
@@ -83,6 +84,15 @@ namespace StudentManagement.Controllers
         [HttpPost("api/students")]
         public IActionResult CreateStudent(Student student)
         {
+            DateTime date1, date2;
+            if (DateTime.TryParseExact(student.Dob, new[] { "dd-MMM-yyyy" }, null, DateTimeStyles.None, out date1))
+                String.Format("{0:dd-mmm-yyyy}", date1);
+            else
+                return Conflict();
+            if (DateTime.TryParseExact(student.EnrollmentDate, new[] { "dd-MMM-yyyy" }, null, DateTimeStyles.None, out date2))
+                String.Format("{0:dd-mmm-yyyy}", date2);
+            else
+                return Conflict();
             if ((Convert.ToDateTime(student.Dob) > DateTime.Now) || (Convert.ToDateTime(student.EnrollmentDate) > DateTime.Now))
                 return Conflict();
             var courseId = _courses.Exists(x => x.Name == student.Course);
