@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\C#\EmployeeApp\bin\Debug\netcoreapp3.0\EmployeeApp.exe
+C:\Users\HP\Desktop\C#\EmployeeApp\bin\Debug\netcoreapp3.0\EmployeeApp.deps.json
+C:\Users\HP\Desktop\C#\EmployeeApp\bin\Debug\netcoreapp3.0\EmployeeApp.runtimeconfig.json
+C:\Users\HP\Desktop\C#\EmployeeApp\bin\Debug\netcoreapp3.0\EmployeeApp.runtimeconfig.dev.json
+C:\Users\HP\Desktop\C#\EmployeeApp\bin\Debug\netcoreapp3.0\EmployeeApp.dll
+C:\Users\HP\Desktop\C#\EmployeeApp\bin\Debug\netcoreapp3.0\EmployeeApp.pdb
+C:\Users\HP\Desktop\C#\EmployeeApp\obj\Debug\netcoreapp3.0\EmployeeApp.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#\EmployeeApp\obj\Debug\netcoreapp3.0\EmployeeApp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\EmployeeApp\obj\Debug\netcoreapp3.0\EmployeeApp.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\EmployeeApp\obj\Debug\netcoreapp3.0\EmployeeApp.dll
+C:\Users\HP\Desktop\C#\EmployeeApp\obj\Debug\netcoreapp3.0\EmployeeApp.pdb

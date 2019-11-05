@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\C#\ConsoleApp2\bin\Debug\netcoreapp3.0\CalculatorApp.exe
+C:\Users\HP\Desktop\C#\ConsoleApp2\bin\Debug\netcoreapp3.0\CalculatorApp.deps.json
+C:\Users\HP\Desktop\C#\ConsoleApp2\bin\Debug\netcoreapp3.0\CalculatorApp.runtimeconfig.json
+C:\Users\HP\Desktop\C#\ConsoleApp2\bin\Debug\netcoreapp3.0\CalculatorApp.runtimeconfig.dev.json
+C:\Users\HP\Desktop\C#\ConsoleApp2\bin\Debug\netcoreapp3.0\CalculatorApp.dll
+C:\Users\HP\Desktop\C#\ConsoleApp2\bin\Debug\netcoreapp3.0\CalculatorApp.pdb
+C:\Users\HP\Desktop\C#\ConsoleApp2\obj\Debug\netcoreapp3.0\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#\ConsoleApp2\obj\Debug\netcoreapp3.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\ConsoleApp2\obj\Debug\netcoreapp3.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\ConsoleApp2\obj\Debug\netcoreapp3.0\CalculatorApp.dll
+C:\Users\HP\Desktop\C#\ConsoleApp2\obj\Debug\netcoreapp3.0\CalculatorApp.pdb
